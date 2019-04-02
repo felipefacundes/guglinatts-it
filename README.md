@@ -14,14 +14,14 @@ Guglina TTS, edizione speciale: in italiano (guglinatts-it), è un sintetizzator
     git clone https://github.com/felipefacundes/guglinatts-it
     cd guglinatts-it
     
-- **Run command:**
+- **Esegui comando:**
 
 ```
 chmod +x INSTALL.sh
 yes s | sh INSTALL.sh
 ```
 
-##### Or manually:
+##### O manualmente:
 
 ``` 
 sudo cp guglina*generic.conf /etc/speech-dispatcher/modules/
@@ -33,7 +33,7 @@ sudo chmod +x /bin/googletts*
 #
 ### Installazione di dipendenze:
 
-- **The Dependencies are:**
+- **Le dipendenze sono:**
   - espeak-ng
   - speech-dispatcher
   - orca
