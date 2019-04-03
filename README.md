@@ -1,6 +1,9 @@
 # Guglina TTS "IT"
 
 Guglina TTS, edizione speciale: in italiano (guglinatts-it), è un sintetizzatore vocale originariamente progettato per il portoghese brasiliano. Utilizza l'API di sintesi vocale di Google Traduttore. Leggi gli screenshot per gli ipovedenti. Trasforma il testo in audio, consentendo a persone non vedenti o ipovedenti di accedere al contenuto visualizzato sullo schermo. Sebbene il pubblico di riferimento principale per i sistemi di conversione da testo a voce - come Guglina TTS EN - sia costituito da persone con disabilità visive, questo tipo di programma può essere utilizzato da persone con dislessia e altre disabilità di lettura, -collegare i bambini. Oltre ad essere uno strumento di tecnologia assistiva, i sintetizzatori vocali possono ancora avere applicazioni educative e di intrattenimento.
+------------------------------
+**Osservazione:** Il sintetizzatore GuglinaTTS utilizza Google Api, ma può essere utilizzato in modalità offline. Non preoccuparti per la tua connessione Internet.
+------------------------------
 È sotto l'egida della licenza:
 ### GPLv3
 > Manutentore: Felipe Facundes
